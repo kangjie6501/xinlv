@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Sep 30 09:41:57 CST 2016
+2.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+6.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+7.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\org\\achartengine\\image\\zoom_out.png
+4.set=JAVA_RESOURCE
+6.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+1.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=DEX
+0.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+3.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\org\\achartengine\\image\\zoom-1.png
+3.set=JAVA_RESOURCE
+1.base=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\work816\\lovetv-secret\\xinlv\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\org\\achartengine\\image\\zoom_in.png
+8.set=JAVA_RESOURCE
+0.set=ANDROID_RESOURCE

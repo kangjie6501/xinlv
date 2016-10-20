@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\work816\lovetv-secret\xinlv\app\libs\achartengine-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="D:\work816\lovetv-secret\xinlv\app\build\intermediates\pre-dexed\debug\achartengine-1.0.0_ffcf100f5138b5327dd74bef3871b7cb6d9ec54d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\work816\lovetv-secret\xinlv\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f1b2b6142988ec5d67b0cb84418e5db78171b7d2.jar" />
+    </item>
+
+</items>
